@@ -36,7 +36,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Sintaxe Básica Java</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -45,7 +45,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Programação Orientada a Objetos</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -54,7 +54,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Desenvolvimento de APIs</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -63,7 +63,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Integração com Banco de Dados</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -72,7 +72,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Ambiente Cloud Azure</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -81,7 +81,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>Serviços Cloud de Inteligência Artificial</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
     </tr>
