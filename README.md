@@ -14,11 +14,20 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
   </thead>
   <tbody align="left">
     <tr>
-      <td>01</td>
+      <td>00</td>
       <td>Git GitHub</td>
       <td align="center">
         <a href="https://github.com/beaasb/Java-Cloud-Native/blob/main/Git-Github/README.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>Versionamento de Código</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
