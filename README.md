@@ -35,7 +35,7 @@ Reposotório para armazenar resumos sobre a jornada do curso interno na [Dio](ht
       <td>02</td>
       <td>Sintaxe Básica Java</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+        <a href="https://github.com/beaasb/Sintaxe-Java.git">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
